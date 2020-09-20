@@ -1,2 +1,3 @@
 # VanillaJS-Challenge
- Nomad VanillaJS Challenge
+
+Nomad VanillaJS Challenge
